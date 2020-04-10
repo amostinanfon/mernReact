@@ -4,8 +4,7 @@ import {
     Collapse, 
     Navbar, 
     NavbarToggler, 
-    NavbarBrand, 
-    Nav, 
+    NavbarBrand,  
     NavItem, 
     NavLink, 
     Container } from 'reactstrap';
